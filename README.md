@@ -1,12 +1,12 @@
 👋 Hi, I’m Vanesse Mngomezulu.
 
- 🐱‍👤 I am  a website developer/designer that works with health and wellness coaches, consultants + specialists to help them become more visible online and make the impact they know they are meant to make.
+ 🐱‍👤 I am  a website developer/designer that works with health and wellness coaches, consultants + specialists to help them become more visible online and make an impact.
 
 😎 I  was previously a data science intern at Explore Data Science.
 
-👩‍💻 I spend most of my time focused on web development and levelling up my skills, whilst spending weekends practising and upskilling on Machine Learning.
+👩‍💻 I spend Monday-Friday as a web developer/designer, while spending weekends practising and upskilling on Machine Learning.
 
-👩‍🎓 I might possibly be stuck in tutorial hell😖, but I'm learning Bootstrap 4. While spending my weekends learning Deep learning.
+👩‍🎓 My skills include HTML, CSS, Bootstrap, C++(school makes me do it), Python and WordPress. While spending my weekends learning Deep learning.
 
 👯‍♀️🏄🏾‍♀️ I'm happy to work with other devs and designers.
 
