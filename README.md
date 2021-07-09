@@ -1,6 +1,6 @@
 👋 Hi, I’m Vanesse Mngomezulu.
 
- 🐱‍👤 I am  a web developer/designer that works with health and wellness coaches, consultants + specialists to help them become more visible online and make an impact.
+ 🐱‍👤 I am  a web developer/designer that works with health and wellness entrepreneurs to help them become more visible online and make an impact.
 
 😎 I  was previously a data science intern at Explore Data Science.
 
